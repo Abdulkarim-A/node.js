@@ -1,0 +1,16 @@
+{
+  "name": "training-on-node",
+  "description": "We are training on node.js. Download the packages, express.js, json and lock json",
+  "authors": "Abdulkarim",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
